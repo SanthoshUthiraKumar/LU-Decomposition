@@ -58,7 +58,6 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
 (i) To find the L and U matrix
 ![LU1Output](https://user-images.githubusercontent.com/119477975/214603661-1b54df27-f190-4fb0-9378-497724655a18.png)
 
